@@ -1,8 +1,5 @@
 # sudocode1
-- CEO/Founder @ [Definity](https://github.com/definityteam)
-- Languages I commonly use: JavaScript, TypeScript, PHP, Python, C/C++
-- You can email me at roux@roux.wtf
-- She/Her
+JavaScript, Python, PHP and C/C++.
 <!--
 **sudocode1/sudocode1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
