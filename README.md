@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 ![sudocode1's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudocode1&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudocode1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sudocode1&theme=radical)](https://git.io/streak-stats)
