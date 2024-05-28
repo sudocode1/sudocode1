@@ -1,6 +1,6 @@
 # sudocode1
 PHP and JavaScript dev. I do some C++ occasionally as well, but I'm not good at it. <br>
-I am currently learning C#. <br>
+I am currently learning Rust. <br>
 
 Most of my major projects are private and unfinished. If you're interested in taking a look (i.e. for the purpose of looking at previous work), feel free to ask! Most of my public repos are old and/or meme projects.
 
