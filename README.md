@@ -1,13 +1,13 @@
 # sudocode1
-PHP and JavaScript dev. I do some C++ occasionally as well, but I'm not good at it. <br>
-I am currently learning Rust. <br>
+PHP and JavaScript developer.<br>
+I do use some other languages occasionally as well, but I'm not very good at them. 
 
-Most of my major projects are private and unfinished. If you're interested in taking a look (i.e. for the purpose of looking at previous work), feel free to ask! Most of my public repos are old and/or meme projects.
+Most of my major projects are private and/or unfinished. If you're interested in taking a look (i.e. for the purpose of looking at previous work), feel free to ask! Most of my public repos are old and/or meme projects.
 
 ## Contact
 * Twitter: [@ssudocode1](https://twitter.com/ssudocode1)
 * Discord: sudocode1
-* Email: roux9401@gmail.com 
+* Email: [sheikhroux@gmail.com](mailto:sheikhroux@gmail.com)
 <!--**sudocode1/sudocode1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
