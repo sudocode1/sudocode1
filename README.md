@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudocode1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br>
 ![sudocode1's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudocode1&show_icons=true&theme=tokyonight) <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudocode1&theme=tokyonight)](https://git.io/streak-stats) <br>
-[![sudocode1's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudocode1)](https://github.com/anuraghazra/github-readme-stats)
+[![sudocode1's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudocode1)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sudocode1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
